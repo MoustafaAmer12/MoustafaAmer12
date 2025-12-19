@@ -17,6 +17,14 @@ I am a **Computer Engineering Senior Student** at Alexandria University speciali
 
 ---
 
+### 🧠 Core Competencies
+* **Problem Solving:** Competitive programming mindset applied to complex engineering bottlenecks.
+* **Data Structures & Algorithms:** Strong foundation in optimizing time/space complexity for scalable systems.
+* **Data Preparation:** Expertise in cleaning, augmenting, and handling non-IID data for AI model robustness.
+* **Technical Agility:** Fast learner with a proven track record of pivoting between low-level Kernel development (C) and high-level AI research (Python).
+
+---
+
 ### 🛠️ Technical Toolbox
 
 **Languages**
@@ -24,6 +32,7 @@ I am a **Computer Engineering Senior Student** at Alexandria University speciali
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -33,6 +42,7 @@ I am a **Computer Engineering Senior Student** at Alexandria University speciali
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **AI & Research**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -61,10 +71,10 @@ I am a **Computer Engineering Senior Student** at Alexandria University speciali
 ---
 
 ### 🚀 Key Projects
-* **[Decentralized Semantic Segmentation](https://github.com/Federated-Learning-S3U/BiseNet-FL):** Graduation thesis focused on model robustness under non-IID data distributions.
-* **[Knowtopia](https://github.com/MoustafaAmer12/Knowtopia):** Designed and implemented a Learning Management System for courses management.
-* **[Sudoku Game Generator & Solver](https://github.com/MoustafaAmer12/Sudoku):** Creating a Sudoku Game generator, and solver to provide hints, with an interactive game play.
-* **[Pintos Kernel](https://github.com/MoustafaAmer12/CSEx61-dockerized-pintos):** Implemented priority scheduling, synchronization, and system calls in C.
+* **[Decentralized Semantic Segmentation](https://github.com/Federated-Learning-S3U/BiseNet-FL):** Graduation thesis addressing non-IID data challenges through **advanced data preparation** and robust model aggregation strategies.
+* **[Pintos Kernel](https://github.com/MoustafaAmer12/CSEx61-dockerized-pintos):** A deep dive into **low-level Data Structures** and **Concurrency Control**, implementing priority scheduling and system calls in C.
+* **[Knowtopia (LMS)](https://github.com/MoustafaAmer12/Knowtopia):** Built with a focus on **Software Architecture** and modular backend design to handle course management at scale.
+* **[Sudoku Generator & Solver](https://github.com/MoustafaAmer12/Sudoku):** Demonstrating **Problem Solving** through backtracking algorithms and efficient state-space searching.
 
 ---
 
